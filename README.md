@@ -28,7 +28,7 @@ In this repository we have 2 smart contract and 2 scripts one of each for testin
 
 ```yarn hardhat node```
 
-3.Open a second terminal and run the test.js script. It will make a swap at each one of the pool and return the amount of tokens that would be received as result.
+3.Open a second terminal and run the test.js script. It will make a swap at each one of the pools and return the amount of tokens that would be received as result.
 
 Here we have 3 pools on uniswap with the fees of 1%, 0.3% and 0.05% respectively, a pool on sushiswap with a fee of 0.3% and a pool on pancakeswap with a fee of 0.05%.
 

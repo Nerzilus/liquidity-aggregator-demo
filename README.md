@@ -14,7 +14,7 @@ In this repository we have 2 smart contract and 2 scripts one of each for testin
 
 ```yarn install```
 
-3.Create a .env with an enviromentla var FORK_RPC_URL with your RPC for forking mainet. Or alternativaly substitute FORK_RPC_URL on hardhat.config.js with your RPC.
+3.Create a .env with an enviromental var FORK_RPC_URL with your RPC for forking mainet. Or alternativaly substitute FORK_RPC_URL on hardhat.config.js with your RPC.
 
 ```FORK_RPC_URL = https://eth-mainnet.g.alchemy.com/v2/123abc```
 
